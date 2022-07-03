@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-03 02:25:31
+# UPDATED: 2022-07-04 02:25:47
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 51324
 # DOMAIN-KEYWORD: 84
-# DOMAIN-SUFFIX: 71338
+# DOMAIN-SUFFIX: 71383
 # IP-CIDR: 255
 # URL-REGEX: 303
-# TOTAL: 123304
+# TOTAL: 123349
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -53034,6 +53034,7 @@ zzzrtrcm2.com
 .666642.xyz
 .666643.xyz
 .666645.xyz
+.666647.xyz
 .666666666666.site
 .6666lm.com
 .6667778882021.site
@@ -53482,6 +53483,7 @@ zzzrtrcm2.com
 .88p2p.com
 .88rpg.net
 .88shu.cn
+.88thaicasinoslots.com
 .88viet.com
 .88vnd.com
 .88vwin.com
@@ -55897,6 +55899,7 @@ zzzrtrcm2.com
 .ad.zhangyue.com
 .ad.zima.kg
 .ad.zing.vn
+.ad.zinimedia.com
 .ad.zodera.hu
 .ad.ztylez.com
 .ad.zuimeitianqi.com
@@ -57700,6 +57703,7 @@ zzzrtrcm2.com
 .ads.service.kugou.com
 .ads.sexgratuit.tv
 .ads.sexier.com
+.ads.sexyland.vn
 .ads.sfusion.com
 .ads.shiftdelete.net
 .ads.shizmoo.com
@@ -59013,6 +59017,7 @@ zzzrtrcm2.com
 .afflow.18-plus.net
 .affluencepaymentlandscape.com
 .affluentshinymulticultural.com
+.affmates.com
 .afform.co.uk
 .affpartners.com
 .affplanet.com
@@ -59400,6 +59405,7 @@ zzzrtrcm2.com
 .aiyou.store
 .aiyun.club
 .aiyyu.com
+.aizhigu.tv
 .aj1052.online
 .aj1058.online
 .aj1070.online
@@ -59885,6 +59891,7 @@ zzzrtrcm2.com
 .aminopay.net
 .amiok.org
 .amirteeg.com
+.amitaephapse.com
 .amjoltiktor.com
 .ammankeyan.com
 .amnestynanny.com
@@ -61900,9 +61907,11 @@ zzzrtrcm2.com
 .badcniop.top
 .badd24287f.com
 .badding.oss-ap-southeast-1.aliyuncs.com
+.baddniop.top
 .badeniop.top
 .badgearsregra.site
 .badgirlz.org
+.badhniop.top
 .badirectoryz.carte-gr.total.fr
 .badjocks.com
 .badlybouncing.com
@@ -62185,6 +62194,7 @@ zzzrtrcm2.com
 .banner.titan-dsl.de
 .banner.titancasino.com
 .banner.trangvangvietnam.com
+.banner.uto.vn
 .banner.vadian.net
 .banner.vatanclick.ir
 .banner.webmersion.com
@@ -65961,6 +65971,7 @@ zzzrtrcm2.com
 .cdyqc.com
 .cdzimeijia.com
 .ce0dc8aa55.com
+.ce33m7.com
 .ce62e0d222bc5aca.com
 .cea9d3d4f74fb831.com
 .ceafdgcdfcheibdfabf.ru
@@ -67925,6 +67936,7 @@ zzzrtrcm2.com
 .compteur.websiteout.net
 .compufixshop.com
 .compulsivehemisphere.com
+.computebailiff.com
 .computer-offer.com
 .computersncs.com
 .computersoostynaarlo.nl
@@ -68913,6 +68925,7 @@ zzzrtrcm2.com
 .crbcdn.jsfiddle.net
 .crcrzqiedhur.com
 .crdrjs.info
+.cre-ads.com
 .cre-dp.sina.cn
 .cre.dp.sina.cn
 .cre.mix.sina.com.cn
@@ -69683,6 +69696,7 @@ zzzrtrcm2.com
 .d1jow6p6g37b9u.cloudfront.net
 .d1k0glcmk0b5rb.cloudfront.net
 .d1k3dpebxhgqjc.cloudfront.net
+.d1k8sb4xbepqao.cloudfront.net
 .d1ks8roequxbwa.cloudfront.net
 .d1l6p2sc9645hc.cloudfront.net
 .d1lm7kd3bd3yo9.cloudfront.net
@@ -70209,6 +70223,7 @@ zzzrtrcm2.com
 .da3uf5ucdz00u.cloudfront.net
 .da60995df247712.com
 .daast.digitalbox.ru
+.dabaicai.ink
 .dabet.me
 .dabiaozhi.com
 .dabihpillar.com
@@ -71420,6 +71435,7 @@ zzzrtrcm2.com
 .did-it.com
 .didchinosdub.cam
 .diddaisycuff.com
+.dididi.love
 .didit.com
 .didna.io
 .didnrep.ru
@@ -78193,6 +78209,7 @@ zzzrtrcm2.com
 .gfstrck.com
 .gft2.de
 .gfv4.destinia.co.za
+.gfvip06ab.com
 .gfvip06af.com
 .gfvip06al.com
 .gfvip08af.com
@@ -80978,6 +80995,7 @@ zzzrtrcm2.com
 .hongfachn.com
 .honghaotravel.com
 .hongjiaex.cn
+.hongjingsn.top
 .hongjiujiaoyi.com
 .hongmao39.top
 .hongruikt.com
@@ -85297,6 +85315,7 @@ zzzrtrcm2.com
 .katofer.axelero.net
 .katoptristhemirr.com
 .kattepush.com
+.katukaunamiss.com
 .katurars.com
 .kaubapsy.com
 .kaukoany.net
@@ -85488,6 +85507,7 @@ zzzrtrcm2.com
 .keyyou.net
 .kf3.xyz
 .kf3msfm.com
+.kf94.club
 .kfand.com
 .kfd3sm2c.com
 .kfdqwo.top
@@ -85723,6 +85743,7 @@ zzzrtrcm2.com
 .kkbb.top
 .kkcaicai.com
 .kkdsdlc.com
+.kkggy.top
 .kkjiaofei.com
 .kkmacsqsbf.info
 .kkpgv.kankan.com
@@ -86087,11 +86108,13 @@ zzzrtrcm2.com
 .ktyawzg.com
 .ktzte.cn
 .ku6101.net
+.ku6106.net
 .ku6110.net
 .ku6131.net
 .ku63.com
 .ku777bet.com
 .ku9377.com
+.ku998.net
 .kuaidibiaoju.com
 .kuaidibox.cn
 .kuaidube.cn
@@ -87782,6 +87805,7 @@ zzzrtrcm2.com
 .lmnqof.littletoncoin.com
 .lmorsb.highstreettv.com
 .lmrycxuojndbekx.top
+.lmsreport.systems.vn
 .ln.ameba.jp
 .lnads.osdn.com
 .lnalttc.com
@@ -87952,6 +87976,7 @@ zzzrtrcm2.com
 .log.doanhnhan.vn
 .log.down61.com
 .log.droid4x.cn
+.log.dubaotiente.com
 .log.easy39.com
 .log.ecgh.dk
 .log.enuri.com
@@ -88124,7 +88149,9 @@ zzzrtrcm2.com
 .logend.cookpad.com
 .logentries.com
 .loger.ru
+.loges.vietnamplus.vn
 .logevt.pubfinity.com
+.logfr.vietnamplus.vn
 .logg.kiwi.com
 .logg4u.cnnd.vn
 .logger.applovefrom.com
@@ -88169,6 +88196,7 @@ zzzrtrcm2.com
 .loginvsi.actonservice.com
 .logistics.dbschenker.com
 .logistics.osmworldwide.com
+.logkm.dantocmiennui.vn
 .loglady.publicbroadcasting.net
 .loglady.skypicker.com
 .logly.co.jp
@@ -88184,6 +88212,7 @@ zzzrtrcm2.com
 .logql.yahoo.co.jp
 .logrocket.com
 .logrocket.io
+.logru.vietnamplus.vn
 .logs-api.shoprunner.com
 .logs-qos.tf1.fr
 .logs.51cto.com
@@ -88228,6 +88257,8 @@ zzzrtrcm2.com
 .logxp.ru
 .logystowtencon.info
 .logz.ru
+.logzh.dantocmiennui.vn
+.logzh.vietnamplus.vn
 .lojapanelmo.com
 .lojapremio.com.br
 .lokalleads-cci.com
@@ -88256,6 +88287,7 @@ zzzrtrcm2.com
 .lomark.cn
 .lombin.com
 .lomeldeer.club
+.lomo.cool
 .londonprivaterentals.standard.co.uk
 .loneptipy.pro
 .long-space.com
@@ -89907,6 +89939,7 @@ zzzrtrcm2.com
 .matomo.crossiety.app
 .matomo.gals24.ru
 .matomo.hdweb.ru
+.matomo.quan.hoabinh.vn
 .matomo.shoppersguide.com.ph
 .matomo.unicaf.org
 .matrimonyfiles.com
@@ -93157,6 +93190,7 @@ zzzrtrcm2.com
 .ncoyqc.com
 .ncs.eadaily.com
 .nct1.logging.nextsmarty.com
+.nct2-logging.nct.vn
 .nctrk.abmail.com.br
 .nctylivpwhpby.com
 .ncurqchw.com
@@ -99876,6 +99910,7 @@ zzzrtrcm2.com
 .qc.kqbd88.com
 .qc.mhsolution.vn
 .qc.violet.vn
+.qcao.happyskin.vn
 .qccoccocmedia.vn
 .qcdnxq.com
 .qceyjl.cellularoutfitter.com
@@ -100026,6 +100061,7 @@ zzzrtrcm2.com
 .qianhua.co
 .qianmeiby.com
 .qiannian.biz
+.qianyan.love
 .qianyuntengyue.com
 .qiaobaba.top
 .qiaoenyl.xyz
@@ -100160,6 +100196,7 @@ zzzrtrcm2.com
 .qn-5.com
 .qn.bejson.com
 .qnajplxtvz-a.akamaihd.net
+.qncphvc.cn
 .qneit.com
 .qngqlrxscxlvh.com
 .qnipkk.xyz
@@ -104139,6 +104176,7 @@ zzzrtrcm2.com
 .sentry.fptplay.net
 .sentry.io
 .sentry.mediacdn.vn
+.sentry.ministore.h5.zalo.me
 .sentry.sendo.vn
 .sentry.thucuc.vn
 .sentry01.zerg.rambler.ru
@@ -110238,6 +110276,7 @@ zzzrtrcm2.com
 .taiiwinclub.cc
 .taijiwhi.com
 .taikangshenyuan.com
+.taikufun.com
 .tailapsi.com
 .tailsweep.com
 .tailsweep.se
@@ -110307,6 +110346,7 @@ zzzrtrcm2.com
 .tangozebra.com
 .tangsoc.com
 .tanguinantaiva.com
+.tangxiaodou.top
 .tangxue.me
 .tangyaols.com
 .tanidigital.com
@@ -114655,6 +114695,7 @@ zzzrtrcm2.com
 .unskilledanna.com
 .unspeakablepurebeings.com
 .unstat.baidu.com
+.unsternrelease.com
 .unsubscribed.co
 .unsuccessfulpensive.com
 .untaryes.online
@@ -116020,6 +116061,7 @@ zzzrtrcm2.com
 .visualscience.external.bbc.co.uk
 .visualsteel.net
 .visummer.com
+.viswcnb.cn
 .visx.net
 .vitalads.net
 .vitalitymax.1.p2l.info
@@ -117735,6 +117777,7 @@ zzzrtrcm2.com
 .wildtowedcad.work
 .wildxxxparties.com
 .wileprefgurad.net
+.wilfridscandalconceived.com
 .wilfulpessimistic.com
 .willalland.info
 .williamhill.es
@@ -119646,6 +119689,7 @@ zzzrtrcm2.com
 .xemtivi24h.com
 .xen-media.com
 .xenaly.sozcu.com.tr
+.xengtructuyen.com
 .xenical.1.p2l.info
 .xenical.3.p2l.info
 .xenical.4.p2l.info
@@ -120103,6 +120147,7 @@ zzzrtrcm2.com
 .xovq5nemr.com
 .xowelamcwijxp.com
 .xox8956.com
+.xox9298.com
 .xox9325.com
 .xp3366.com
 .xpanama.net
