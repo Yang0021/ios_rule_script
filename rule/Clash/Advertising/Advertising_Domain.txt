@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-04 02:25:47
+# UPDATED: 2022-07-04 16:18:01
 # DOMAIN: 51324
 # DOMAIN-KEYWORD: 84
-# DOMAIN-SUFFIX: 71383
+# DOMAIN-SUFFIX: 71403
 # IP-CIDR: 255
-# TOTAL: 123046
+# TOTAL: 123066
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -52344,6 +52344,7 @@ zzxosget.com
 .666643.xyz
 .666645.xyz
 .666647.xyz
+.666648.xyz
 .666666666666.site
 .6667778882021.site
 .666video.asia
@@ -53200,6 +53201,7 @@ zzxosget.com
 .accounts.pkr.com
 .accounts.secure-ua.website
 .accountsections.com
+.accusationcollegeload.com
 .accusationloop.com
 .accustomreview.com
 .acdcdn.com
@@ -56376,6 +56378,7 @@ zzxosget.com
 .aheadday.com
 .aheadmachine.com
 .ahedsply.com
+.ahejtw.onelink.me
 .ahfdsply.com
 .ahfnlwaxewum.com
 .ahfrhub.cn
@@ -56768,6 +56771,7 @@ zzxosget.com
 .alpurtxslb.com
 .alreadygrippatsy.com
 .alreat.com
+.alright.network
 .alrr.club
 .alsedu.tech
 .alskillsexkce.xyz
@@ -58261,12 +58265,14 @@ zzxosget.com
 .bacontent.de
 .bacskateszov.hu
 .bad8b2e252.com
+.badaniop.top
 .badcniop.top
 .badd24287f.com
 .baddniop.top
 .badeniop.top
 .badgirlz.org
 .badhniop.top
+.badjniop.top
 .badjocks.com
 .badlybouncing.com
 .badsabs.com
@@ -60471,6 +60477,7 @@ zzxosget.com
 .bwp.lastfm.com.com
 .bwqyxhdepbnr.com
 .bwstatistics.sapoapps.vn
+.bwsvftq.cn
 .bwtsrv.com
 .bx.neolabs.kz
 .bxczchdxynw.com
@@ -65681,6 +65688,7 @@ zzxosget.com
 .drivenetwork.ru
 .drivingschoolburlington.ca
 .drkkydnkdvfosd.xyz
+.drldgfscmjgim.com
 .drlimmode9ddd.cloudfront.net
 .drlphsvpybieyie.xyz
 .drm-google-analtyic.com
@@ -65926,6 +65934,7 @@ zzxosget.com
 .dxwgpw0lkcum5.cloudfront.net
 .dxwpedu.me
 .dxz454z33ibrc.cloudfront.net
+.dxzky.love
 .dy-home.cc
 .dy2xcjk8s1dbz.cloudfront.net
 .dybxezbel1g44.cloudfront.net
@@ -65943,6 +65952,7 @@ zzxosget.com
 .dyjcydn.cloud
 .dylanwong.com
 .dylenura.xyz
+.dylums.com
 .dymlo6ffhj97l.cloudfront.net
 .dynaads.net
 .dynad.net
@@ -66628,6 +66638,7 @@ zzxosget.com
 .emotersjervina.com
 .emotionally.wang
 .emphen.com
+.empill.com
 .empirelayer.club
 .empiremoney.com
 .emploresmith.com
@@ -67892,6 +67903,7 @@ zzxosget.com
 .fgopr.top
 .fguyrnvobmh.com
 .fh-main.measure.agilemeasure.com
+.fhfgg.com
 .fhgh9sd.com
 .fhihabactcuk.com
 .fhisownkindt.xyz
@@ -69428,6 +69440,7 @@ zzxosget.com
 .gfvip08af.com
 .gfvip08as.com
 .gfvip09aa.com
+.gfvip09at.com
 .gfwiygrvi.xyz
 .gfxa.sheetmusicplus.com
 .gg.huahaimi.work
@@ -75595,6 +75608,7 @@ zzxosget.com
 .link-trade.net
 .link.cado.pro
 .link.ru
+.link.uk.expediamail.com
 .link2me.ru
 .link4ads.com
 .link4win.net
@@ -75788,6 +75802,7 @@ zzxosget.com
 .lkle.top
 .lklrmjbmnhnn.com
 .lknad215.top
+.lknmnnr.xyz
 .lkoovwlmpueaom.xyz
 .lkoqbgyin.com
 .lkqd.com
@@ -76016,7 +76031,6 @@ zzxosget.com
 .log.plo.vn
 .log.polarisoffice.com
 .log.pvpgang.com
-.log.r-oo.jp
 .log.radiko.jp
 .log.rutube.ru
 .log.saleup88.vn
@@ -76964,6 +76978,7 @@ zzxosget.com
 .mashlumgibers.com
 .masklink.org
 .masktoelevity.com
+.masontotally.com
 .massacreloveroffended.com
 .massage-v-almaty.kz
 .massariuscdn.com
@@ -77155,6 +77170,7 @@ zzxosget.com
 .mdialog.com
 .mdjdg.girlssohorny.net
 .mdjxa.com
+.mdjxz.com
 .mdkjefq.cn
 .mdklc.top
 .mdn2015x1.com
@@ -77507,6 +77523,7 @@ zzxosget.com
 .messiupal.com
 .mestkom.ru
 .mesucces.top
+.meta-wx.com
 .metaconex.io
 .metadsp.co.uk
 .metaffiliation.com
@@ -83782,7 +83799,6 @@ zzxosget.com
 .pvhgws7.com
 .pvipgaj.com
 .pvjscfhlt.com
-.pvk.jp
 .pvkvga.cn
 .pvmax.net
 .pvobumsfxacarh.com
@@ -83990,6 +84006,7 @@ zzxosget.com
 .qhytkj.xyz
 .qian-tao.xyz
 .qianb.ltd
+.qianchengwenhua.xyz
 .qianfengwang.top
 .qianggou8.top
 .qiangren.biz
@@ -88900,6 +88917,7 @@ zzxosget.com
 .steadfastsound.com
 .steadyclutchimpression.com
 .steadydonut.com
+.steakeffort.com
 .stealth.nl
 .stealthlockers.com
 .steamac.com
@@ -89740,7 +89758,6 @@ zzxosget.com
 .taghaugh.com
 .tagjunction.com
 .tagman.britishairways.com
-.tagmanager.alright.network
 .tagmanager.cn
 .tagmanager.toast.com
 .tagmngrs.com
@@ -90574,6 +90591,7 @@ zzxosget.com
 .tianhong.mobi
 .tianii.top
 .tianlule.cn
+.tianning.xyz
 .tianqi1212.com
 .tiantai.ink
 .tiantianwl.cn
@@ -92047,6 +92065,7 @@ zzxosget.com
 .tvnotice.kg.garena.vn
 .tvoi-dosug.com
 .tvprocessing.com
+.tvqudpwppdhy.com
 .tvshowslist.com
 .tvtnbu.cn
 .tvw8edxhpf.ru
@@ -94084,7 +94103,6 @@ zzxosget.com
 .wachipho.net
 .wackeerd.com
 .wackotracko.com
-.wadiryphi.pro
 .waecobiyppbslb.com
 .wafflescrappyprosperous.com
 .wafflesgenuine.com
@@ -95901,6 +95919,7 @@ zzxosget.com
 .wyfxgvxxi.xyz
 .wyliswbimeotllt.xyz
 .wylqafraq7.com
+.wymcloud.love
 .wynather.com
 .wyorrmuftjp.com
 .wyovhzs.cn
@@ -96221,6 +96240,7 @@ zzxosget.com
 .xingzhu.top
 .xinhaogong.xyz
 .xinheshengmce.com
+.xinhuan.mobi
 .xinhuayin.biz
 .xinjscn.oss-cn-hangzhou.aliyuncs.com
 .xinqiannv.com
@@ -96959,6 +96979,7 @@ zzxosget.com
 .ymtrqt.cn
 .ymvhbeuadqhwx.com
 .ymxlm.cc
+.ymyh.club
 .ymzrrizntbhde.com
 .ynaxckzmreo.com
 .ynbyutongdianqi.com
@@ -111971,7 +111992,6 @@ zzxosget.com
 .ad.aucview.com
 .ad.autorace.jp
 .ad.daum.net
-.ad.kddi-fs.com
 .ad.takasu.co.jp
 .ad.tempstaff.co.jp
 .ad.udition.jp

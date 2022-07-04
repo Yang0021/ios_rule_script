@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-04 02:26:43
+# UPDATED: 2022-07-04 16:18:42
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 46003
+# DOMAIN: 45996
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 89238
+# DOMAIN-SUFFIX: 89258
 # IP-CIDR: 256
 # URL-REGEX: 303
-# TOTAL: 136064
+# TOTAL: 136077
 0000mps.webpreview.dsl.net
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -850,7 +850,6 @@
 65e750617ae8f0421.com
 65h79.cn
 66600619.com
-666648.xyz
 669-diet.com-swd.net
 671-fitness.com-swd.net
 671.stats.misstrends.com
@@ -1595,6 +1594,7 @@ ad.investopedia.com
 ad.isohunt.com
 ad.janalta.com
 ad.jp.ap.valu.com
+ad.kddi-fs.com
 ad.koreadaily.com
 ad.leadcrunch.com
 ad.libgel.net
@@ -4997,7 +4997,6 @@ backvids.com
 bacucredicoop.com
 bacula1-1.sfa37.smi2.net
 badadownload.com
-badaniop.top
 badekhanpur.com
 badoeudn.com
 bae093b2b20fde784.com
@@ -6898,7 +6897,6 @@ bwoipfjnvbw.com
 bwp.news.com
 bwpqqofejekh.com
 bwssvome.com
-bwsvftq.cn
 bwuqqnxubseq.com
 bwvigmkn.com
 bwwfncfuzahpg.com
@@ -11828,7 +11826,6 @@ dxurtngzawwe.com
 dxyafwkhrnycjp.com
 dxzgoyzo.com
 dxzkrtpnwpp.com
-dxzky.love
 dy48bnzanqw0v.cloudfront.net
 dyazeqpeoykf.com
 dycpc40hvg4ki.cloudfront.net
@@ -14150,7 +14147,6 @@ fgzxlngohtg.com
 fh.news-subscribe.com
 fhawywadfjlo.com
 fhddhfhz.com
-fhfgg.com
 fhgfffdsf9.appspot.com
 fhidehpl.com
 fhlzfxxnqc.com
@@ -16382,7 +16378,6 @@ gfifasteners.com
 gfladrimbg.com
 gfrlmvxfsvl.com
 gfuhjlpnuj.com
-gfvip09at.com
 gfxzwyphyv.com
 gfyrxikptop.com
 gfzluvsjsprkac.com
@@ -18596,6 +18591,7 @@ hlrziwaldlui.com
 hlsqjrgeuw.com
 hlvvlouaeicp.com
 hlvzvisiwbtuwv.com
+hlww66.site
 hlykwstrvxa.com
 hm.news-subscribe.com
 hm.ubiej.com
@@ -23586,7 +23582,6 @@ lkjdwmhuqxupef.com
 lkksbzcslmeefw.com
 lkktkgcpqzwd.com
 lkmoqyzfv.com
-lknmnnr.xyz
 lknxarjfidm.com
 lkohqfilvpked.com
 lkojwhiwcsum.com
@@ -25430,7 +25425,6 @@ messenger.zango.com
 messsengerr.com
 mesterads.com
 meta-designs.com
-meta-wx.com
 metacount.com
 metakeyproducer.com
 metalboxer.com
@@ -27440,6 +27434,7 @@ neobankdoor.net
 neomedia.in.net
 neomedia24.net
 neomediamax.net
+neornad.cn
 neosdreamliner.com
 neospes.com
 neotech.in.net
@@ -38412,7 +38407,6 @@ tiads.health.com
 tiads.instyle.com
 tiads.people.com
 tiads.timeinc.net
-tianning.xyz
 tiantianedu.net
 tiantmall.com
 tianzhe58.com
@@ -42028,6 +42022,7 @@ wcabsbogwfxv.com
 wcfelywclbql.com
 wcgquaaknuha.com
 wcgrrjyjiaeocd.com
+wchh.online
 wckp.sbhmn-miner.com
 wcksovhmd.com
 wclkmumbolsmqd.com
@@ -43463,7 +43458,6 @@ wyjtscdjfcmsy.com
 wykskkpplgfi.com
 wylblxhn.com
 wylnauxhkerp.com
-wymcloud.love
 wymoviciyvj.com
 wyngatefarms.com
 wypad3k0.blogspot.com
@@ -43790,7 +43784,6 @@ xingqibaile.com
 xingyunjiaren.com
 xinhao29.com
 xinhuacybz.com
-xinhuan.mobi
 xinhuijiuchenpi.cn
 xinmeiren.net
 xinthesidersdown.com
@@ -48212,6 +48205,7 @@ zzzrtrcm2.com
 .666643.xyz
 .666645.xyz
 .666647.xyz
+.666648.xyz
 .666666666666.site
 .6666lm.com
 .6667778882021.site
@@ -50623,6 +50617,7 @@ zzzrtrcm2.com
 .accountsections.com
 .accreditor.club
 .accscdn.m.taobao.com
+.accusationcollegeload.com
 .accusationloop.com
 .accustomreview.com
 .acdcdn.com
@@ -51165,7 +51160,6 @@ zzzrtrcm2.com
 .ad.kaskus.co.id
 .ad.kataweb.it
 .ad.kau.li
-.ad.kddi-fs.com
 .ad.keenspace.com
 .ad.khan.co.kr
 .ad.kimcartoon.si
@@ -58523,6 +58517,7 @@ zzzrtrcm2.com
 .bad.maienyanjing.cn
 .bad8b2e252.com
 .badad.googleplex.com
+.badaniop.top
 .badao37.net
 .badb5refl.com
 .badcniop.top
@@ -58541,8 +58536,10 @@ zzzrtrcm2.com
 .badges.instagram.com
 .badgeville.com
 .badgirlz.org
+.badgniop.top
 .badhniop.top
 .badirectoryz.carte-gr.total.fr
+.badjniop.top
 .badjocks.com
 .badjs.weixinbridge.com
 .badleasump.cam
@@ -62057,6 +62054,7 @@ zzzrtrcm2.com
 .bwp.theinsider.com.com
 .bwqyxhdepbnr.com
 .bwstatistics.sapoapps.vn
+.bwsvftq.cn
 .bwtsrv.com
 .bwujxl.yoga-lava.com
 .bwvnmbhuuhalr.com
@@ -72054,6 +72052,7 @@ zzzrtrcm2.com
 .dxwhyp.com
 .dxwpedu.me
 .dxz454z33ibrc.cloudfront.net
+.dxzky.love
 .dy-home.cc
 .dy2xcjk8s1dbz.cloudfront.net
 .dy886.cn
@@ -76138,6 +76137,7 @@ zzzrtrcm2.com
 .fhbv.cn
 .fhdnds.mrmarvis.com
 .fhfg.net.cn
+.fhfgg.com
 .fhgh9sd.com
 .fhhzrq.regnum.ru
 .fhihabactcuk.com
@@ -78821,6 +78821,7 @@ zzzrtrcm2.com
 .gfvip08af.com
 .gfvip08as.com
 .gfvip09aa.com
+.gfvip09at.com
 .gfwiygrvi.xyz
 .gfx.infomine.com
 .gfxa.sheetmusicplus.com
@@ -85859,6 +85860,7 @@ zzzrtrcm2.com
 .iyptc.cn
 .iytafcpbnyauogj.xyz
 .iytfczscguf.bid
+.iyuedu.cn.com
 .iyuey.com
 .iyumiao.com.cn
 .iyvzqt.agabangmall.com
@@ -90240,6 +90242,7 @@ zzzrtrcm2.com
 .link.touchtunes.com
 .link.touchtunesmail.com
 .link.tr.freshly.com
+.link.uk.expediamail.com
 .link.usa-network.com
 .link.watchbravotv.com
 .link.watchoxygen.com
@@ -90642,6 +90645,7 @@ zzzrtrcm2.com
 .lkluoz.saraceniwines.com
 .lknad215.top
 .lknbffkv.com
+.lknmnnr.xyz
 .lknqfn.furla.com
 .lkoovwlmpueaom.xyz
 .lkoqbgyin.com
@@ -91044,7 +91048,6 @@ zzzrtrcm2.com
 .log.pvpgang.com
 .log.quora.com
 .log.qvb.qcloud.com
-.log.r-oo.jp
 .log.radiko.jp
 .log.rc.hunantv.com
 .log.reformal.ru
@@ -93938,6 +93941,7 @@ zzzrtrcm2.com
 .mdiyay.vseinstrumenti.ru
 .mdjdg.girlssohorny.net
 .mdjxa.com
+.mdjxz.com
 .mdkjefq.cn
 .mdklc.top
 .mdlsite.com
@@ -94665,6 +94669,7 @@ zzzrtrcm2.com
 .met.vgwort.de
 .met1.hp.com
 .met2.hp.com
+.meta-wx.com
 .meta.video.qiyi.com
 .meta4-group.com
 .metaconex.io
@@ -96081,6 +96086,7 @@ zzzrtrcm2.com
 .mintme.ml
 .minusdumpling.com
 .minute.ly
+.minutemedia-prebid.com
 .minutemediaservices.com
 .minutesbitter.com
 .minwear.com.cn
@@ -106351,7 +106357,6 @@ zzzrtrcm2.com
 .pvhgws7.com
 .pvipgaj.com
 .pvjscfhlt.com
-.pvk.jp
 .pvkvga.cn
 .pvlog.hd.baofeng.com
 .pvlog.moviebox.baofeng.net
@@ -106767,6 +106772,7 @@ zzzrtrcm2.com
 .qiailm.com
 .qian-tao.xyz
 .qianb.ltd
+.qianchengwenhua.xyz
 .qianchuanghr.com
 .qianclick.baidu.com
 .qianfengwang.top
@@ -119564,6 +119570,7 @@ zzzrtrcm2.com
 .sylmyar.pw
 .sylotepu.xyz
 .sylvia.cloud
+.sym.zone
 .symaa.cn
 .symab.cn
 .symad.cn
@@ -121617,6 +121624,7 @@ zzzrtrcm2.com
 .tianlule.cn
 .tianmidian.com
 .tiannbo.com
+.tianning.xyz
 .tianqi1212.com
 .tianqi777.com
 .tianshu-x.gtimg.cn
@@ -127560,6 +127568,7 @@ zzzrtrcm2.com
 .voicegiddiness.com
 .voicemakingrenown.com
 .voicevegetable.com
+.voihkjd.cn
 .voiliertram.com
 .voipnewswire.net
 .vokut.com
@@ -128096,7 +128105,6 @@ zzzrtrcm2.com
 .wackotracko.com
 .wacucmiy.net
 .waddlegrammind.com
-.wadiryphi.pro
 .wadsotch.com
 .waecobiyppbslb.com
 .wafflescrappyprosperous.com
@@ -131215,6 +131223,7 @@ zzzrtrcm2.com
 .wyhzzy.com
 .wyliswbimeotllt.xyz
 .wylqafraq7.com
+.wymcloud.love
 .wynather.com
 .wynzuadujkd.com
 .wyorrmuftjp.com
@@ -131801,10 +131810,12 @@ zzzrtrcm2.com
 .xingyou65.xyz
 .xingyou69.asia
 .xingyou71.asia
+.xingyuanaigaowei.love
 .xingzhu.top
 .xingzuomeixue.com
 .xinhaogong.xyz
 .xinheshengmce.com
+.xinhuan.mobi
 .xinhuawei.cxd88.com
 .xinhuayin.biz
 .xiniuz.com
@@ -132485,6 +132496,7 @@ zzzrtrcm2.com
 .xygediwe.xyz
 .xygshxnedtccxlt.com
 .xyhkj.vip
+.xyhly.xyz
 .xyhojp.lacoste.com
 .xyimg.net
 .xykdglmymu.com
@@ -133264,6 +133276,7 @@ zzzrtrcm2.com
 .ymvikp.estadao.com.br
 .ymviwl.just4camper.de
 .ymxlm.cc
+.ymyh.club
 .ymzrrizntbhde.com
 .yn.001fzc.com
 .ynagqs.vidaxl.pl
