@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-08 02:29:02
-# DOMAIN: 51324
+# UPDATED: 2022-07-08 10:34:15
+# DOMAIN: 51323
 # DOMAIN-KEYWORD: 84
 # DOMAIN-SUFFIX: 71602
 # IP-CIDR: 255
-# TOTAL: 123265
+# TOTAL: 123264
 DOMAIN,0000mps.webpreview.dsl.net
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -42139,7 +42139,6 @@ DOMAIN,gzxdkaytxdsyxg.com
 DOMAIN,h.jcqtb.cn
 DOMAIN,h.wr2t6b.cn
 DOMAIN,h0.hucdn.com
-DOMAIN,h5.sinaimg.cn
 DOMAIN,h501.cn
 DOMAIN,h56h5r.xyz
 DOMAIN,h6y654wgfdhd.com

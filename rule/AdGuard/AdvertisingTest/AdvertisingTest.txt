@@ -1,12 +1,11 @@
 ! Title: AdvertisingTest
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-07-08 02:29:45
-! Total: 135490
+! Updated: 2022-07-08 10:34:47
+! Total: 135512
 
 
 ||46186911.vtt^
-||60e19222e9.com^
 ||80055404.vtt^
 ||absurdapple.com^
 ||adfstat.yandex.ru^
@@ -22,20 +21,14 @@
 ||awsync.yandex.ru^
 ||beacon.search.yahoo.com^
 ||beap-bc.yahoo.com^
-||cnglish.site^
-||cricketunbutton.com^
 ||crypta.js^
 ||d1stxfv94hrhia.cloudfront^
 ||efficientapplesimulator.com^
 ||fpb1.apple886.com^
-||gondangwicopy.com^
-||guojinfeng123.top^
-||headstonefoamcleaver.com^
 ||https-apple.com^
 ||iadsdk.apple.com^
 ||ib.snssdk.com^
 ||jpaasne.e.shifen.com^
-||ling07.icu^
 ||log.strm.yandex.ru^
 ||marketingsolutions.yahoo.com^
 ||mediaappletree.com^
@@ -43,19 +36,13 @@
 ||mm.n3w1d0ma1n^
 ||mo.vlpyj.xy^
 ||pr.comet.yahoo.com^
-||prudence.love^
 ||rrf.fat1domain1^
-||serenityspokenrust.com^
 ||shackapple.com^
-||shotstopers.com^
 ||stats.video.search.yahoo.com^
 ||sub.powerapple.com^
 ||theapple.site^
-||wiuspckmn.bar^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||xcjcy.pro^
 ||youtube.local^
-||zygaoshou888.cn^
 ||0.code.cotsta.ru^
 ||00-gov.cn^
 ||0000mps.webpreview.dsl.net^
@@ -91333,7 +91320,6 @@
 ||h5.jiumaster.com^
 ||h5.mse.360.cn^
 ||h5.pk1179.com^
-||h5.sinaimg.cn^
 ||h5.super-dreamers.com^
 ||h5.taihao.cc^
 ||h56h5r.xyz^
@@ -104909,6 +104895,7 @@
 ||600zi.com^
 ||6071.com^
 ||60999.cn^
+||60e19222e9.com^
 ||61165.com^
 ||612.com^
 ||61677.com^
@@ -104927,6 +104914,7 @@
 ||661291.com^
 ||6613167.cn^
 ||666672.xyz^
+||666673.xyz^
 ||668559.com^
 ||66ce98158e4f402.com^
 ||66wen.com^
@@ -106758,6 +106746,7 @@
 ||arrariedcra.club^
 ||arrowkeeperdigest.com^
 ||arshgkcfdhgr.com^
+||arshineensnarl.com^
 ||arsoncanteenpicky.com^
 ||artgullyhep.com^
 ||artibot.ai^
@@ -106969,6 +106958,7 @@
 ||avero.xyz^
 ||avfay.com^
 ||avideo.ifengcdn.com^
+||aviesanct.website^
 ||aviite.freaksstore.com^
 ||avis-verifies.com^
 ||avocarrot.com^
@@ -107172,6 +107162,7 @@
 ||baudgassedtarot.com^
 ||bavftcgoapga.com^
 ||bavvgo.zingat.com^
+||bawkedaimyos.casa^
 ||baxt.mobi^
 ||bayarea.summitry.com^
 ||bayception.pw^
@@ -107555,6 +107546,7 @@
 ||bozhihua.com^
 ||bpfgut.ivg.it^
 ||bpmonline.com^
+||bpnhgan.cn^
 ||bposterss.net^
 ||bqiovml.com^
 ||br.app.link^
@@ -107759,6 +107751,7 @@
 ||ca.ssl.holdmybeerconsulting.com^
 ||ca.xxxshame.com^
 ||ca87.playfabapi.com^
+||cabbingpolynya.cam^
 ||cabresenalitie.club^
 ||cacfbf85ad2005e4c31.com^
 ||cache.api-zdj.com^
@@ -108049,6 +108042,7 @@
 ||cdnvideo.mobi^
 ||cdnwidget.com^
 ||cdshusen.cn^
+||cdweikebaba.xin^
 ||cdxjt.mobi^
 ||cea53c4833.com^
 ||cec-global.nielsen.com^
@@ -108185,6 +108179,7 @@
 ||chesterstandard-gb.chesterstandard.co.uk^
 ||chewdeadlocksummary.com^
 ||chgilks.com^
+||chgzguhkue.com^
 ||chickadee.hispanicinjobs.com^
 ||chickadee.laravel.tips^
 ||chickadee.mikebifulco.com^
@@ -108307,6 +108302,7 @@
 ||classisingew.club^
 ||clawtoiltaupe.com^
 ||clc.wanmancn.com^
+||clear7.love^
 ||clearbit.com^
 ||clearninggl.fun^
 ||clearsettlementelegance.com^
@@ -108463,6 +108459,7 @@
 ||cnco.me^
 ||cndhit.xyz^
 ||cnej4912jks.com^
+||cnglish.site^
 ||cnil.links-lab.fr^
 ||cnliken.com^
 ||cnlink8.com^
@@ -108943,6 +108940,7 @@
 ||cretaiformac.top^
 ||cretextsma.info^
 ||cribsectstux.com^
+||cricketunbutton.com^
 ||crimitating.com^
 ||crittercism.com^
 ||crjshop.com^
@@ -111557,6 +111555,7 @@
 ||golp4elik.com^
 ||gomo.cc^
 ||gomyjndc8v5t.www.nookgaming.com^
+||gondangwicopy.com^
 ||gong-eb.qubit.com^
 ||gongxifacai21.top^
 ||goodkino.biz^
@@ -111622,6 +111621,7 @@
 ||greatedclu.fun^
 ||greatimprudencecuriosity.com^
 ||greatkneadsuburb.com^
+||greatnfw.com^
 ||greece-search.com^
 ||greedysafely.com^
 ||greenadblocker.com^
@@ -111703,6 +111703,7 @@
 ||gunmi.cn^
 ||guoad.com^
 ||guoduand.cn^
+||guojinfeng123.top^
 ||guppy.ausowned.com.au^
 ||guppy.directlyapply.com^
 ||guppy.estimate.taxi^
@@ -111859,6 +111860,7 @@
 ||headmessi.club^
 ||headquartercloudlessselfservice.com^
 ||headquartersbanishspook.com^
+||headstonefoamcleaver.com^
 ||health.aonunited.com^
 ||health.melly.de^
 ||healthcare-distribution.com^
@@ -112933,6 +112935,7 @@
 ||j1503.com^
 ||j1kmigrhwjf4.angelacampos.es^
 ||j45.webringporn.com^
+||j46rwh.site^
 ||j8j9.com^
 ||jac.yahoosandbox.com^
 ||jackal.jakerunzer.com^
@@ -113103,6 +113106,7 @@
 ||jokqem.hickies.com^
 ||jonasahalockup.com^
 ||joorejou.net^
+||jotocyxe.xyz^
 ||jowtkv.vertbaudet.de^
 ||joy.ochronus.online^
 ||joyfullysacrificeralph.com^
@@ -113473,6 +113477,7 @@
 ||ksxcxb.cn^
 ||ktzuoc.bueroshop24.de^
 ||ku.biquge.info^
+||ku2d3a7pa8mdi.com^
 ||ku6.com^
 ||kuaibaopay.com^
 ||kuaiboads.com^
@@ -113586,6 +113591,7 @@
 ||launch1.co^
 ||launchers.network^
 ||lavender64369.com^
+||lawhulophe.com^
 ||layouttransparent.com^
 ||lazabu.ru^
 ||lb.aatkit.com^
@@ -113742,6 +113748,7 @@
 ||limpet.eddiehinkle.com^
 ||limpet.padbury.app^
 ||lindawei.cn^
+||ling07.icu^
 ||lingchallersh.top^
 ||lingd.cn^
 ||lingeriebarren.com^
@@ -113789,6 +113796,7 @@
 ||liufenghua.com^
 ||liuguoyu.wang^
 ||liulu888.com^
+||liuzhen.love^
 ||live-api.immomo.com^
 ||live-log.immomo.com^
 ||live-m.immomo.com^
@@ -114776,6 +114784,7 @@
 ||md-hl.apptimize.com^
 ||md-ll.apptimize.com^
 ||mdapp01.com^
+||mdjxm.com^
 ||mdmserver.mobidia.com^
 ||mdn1.phluantmobile.net^
 ||mdn2.phluantmobile.net^
@@ -117657,6 +117666,7 @@
 ||proxytpb.pw^
 ||prscripts.com^
 ||prtawe.com^
+||prudence.love^
 ||prudencebonfireyowl.com^
 ||prudential.distribution.team.prudential.co.uk^
 ||prxymecb.cn^
@@ -119249,6 +119259,7 @@
 ||sequently.club^
 ||sequestrassent.xyz^
 ||seraton.online^
+||serenityspokenrust.com^
 ||seriendly.club^
 ||seriorladded.info^
 ||serumawus.com^
@@ -119333,6 +119344,7 @@
 ||shadeslonesome.com^
 ||shake.360.cn^
 ||shake.f.360.cn^
+||shalltry.com^
 ||shanghebaizhou.cn^
 ||shangjiabiao.com^
 ||shangtuke.cn^
@@ -119394,6 +119406,7 @@
 ||shopilize.com^
 ||short-video.kakamobi.cn^
 ||shortpixel.ai^
+||shotstopers.com^
 ||shoujiawang.cn^
 ||shoujigushi.net^
 ||shoukuoedu.com^
@@ -121146,6 +121159,7 @@
 ||superintendsuckshaggy.com^
 ||superiorclueless.com^
 ||superloofy.com^
+||supernfq.com^
 ||supersitetime.com^
 ||supertraders.club^
 ||supertraders.info^
@@ -122217,6 +122231,7 @@
 ||track.ad.nl^
 ||track.bestbuy.ca^
 ||track.chanret.com^
+||track.coherentpath.com^
 ||track.collegeboard.org^
 ||track.connectwise.com^
 ||track.docusign.com.au^
@@ -123484,6 +123499,7 @@
 ||witsoats.net^
 ||witstandfridge.com^
 ||witthethim.com^
+||wiuspckmn.bar^
 ||wivo2gaza.com^
 ||wiwapaxo.xyz^
 ||wixstatic.com^
@@ -123550,6 +123566,7 @@
 ||worthlessjeepphysician.com^
 ||worthyrid.com^
 ||wowdpv.orsay.com^
+||wowhofoo.com^
 ||wpadsx.com^
 ||wpan.sc2yun.com^
 ||wpcc.io^
@@ -123780,6 +123797,7 @@
 ||xcgpdf.beautygarage.jp^
 ||xcgzme.mnogomebeli.com^
 ||xchangebanners.com^
+||xcjcy.pro^
 ||xclofrfa.com^
 ||xcmxsw.com^
 ||xcqdw.pw^
@@ -124259,6 +124277,7 @@
 ||yyo.5du5.com^
 ||yyrtip.mujkoberec.cz^
 ||yyslate.com^
+||yyttm.top^
 ||yzdcb.xyz^
 ||yzfbank.com^
 ||yzxls.com^
@@ -124275,6 +124294,7 @@
 ||z6uc8er1mzx8n2qd.pro^
 ||z888.izhufu.net^
 ||za5.net^
+||zaamuvqteety.com^
 ||zaawds.farmae.it^
 ||zagrabiti.viessmann.hr^
 ||zangtui.com^
@@ -124456,6 +124476,7 @@
 ||zxryytzesvn.com^
 ||zxuafe.fashionette.nl^
 ||zxw51.com^
+||zygaoshou888.cn^
 ||zygxy.online^
 ||zymbrlgu.cn^
 ||zymerget.bid^
@@ -124464,6 +124485,7 @@
 ||zymerget.party^
 ||zymerget.stream^
 ||zymerget.win^
+||zypanafo.pro^
 ||zzad.com^
 ||zzasj.cn^
 ||zzb6.cn^
